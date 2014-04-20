@@ -5,6 +5,7 @@ Python sample code to try MeCab and word2vec
 
 ## Usage
 ---
+
 #### Construct MeCab dictionary
 - for niconico data set (specifically for niconico dictionary header data)
 - You can get data from [NII](http://www.nii.ac.jp/cscenter/idr/nico/nico.html)
