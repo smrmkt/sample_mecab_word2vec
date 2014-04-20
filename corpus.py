@@ -28,7 +28,7 @@ if __name__ == '__main__':
     out_path = args.out_path
 
     if menu == 'parse':
-        p = Parser('-Owakati -u data/dic/nico.dic')
+        p = Parser('-Owakati')
         p.parse_file(in_path, out_path)
     elif menu == 'vectorize':
         v = Vectorizer(min_count=10)
